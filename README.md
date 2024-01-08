@@ -1,6 +1,6 @@
 # Connecting the LM75 I2C thermometer(s) to the ESP12.OLED_V1 in ESPHome
 
-This repository was intentionally created as a supporting material to the publication [Connecting the LM75 thermometer sensor to the ESP12.OLED_V1 in ESPHome](https://iot-devices.com.ua/en/blog/) posted on our website.
+This repository was intentionally created as a supporting material to the publication [Connecting the LM75 thermometer sensor to the ESP12.OLED_V1 in ESPHome](https://iot-devices.com.ua/en/lm75-thermometer-connection-to-esp12-oled_v1-in-esphome-en/) posted on our website.
 
 The esp12oled-lm75.yaml file provides an example of how to connect LM75 I2C sensors to the ESP12.OLED_V1 controller running ESPHome, which currently does not have built-in driver support for these sensors. 
 
@@ -12,7 +12,7 @@ The esp12oled-lm75.yaml file provides an example of how to connect LM75 I2C sens
 - 1 x LM75 module (no brand);
 - 1 x CJMCU-75 module.
 
-Read the full article on our website.
+Read the full [article](https://iot-devices.com.ua/en/lm75-thermometer-connection-to-esp12-oled_v1-in-esphome-en/) on our website.
 
 ## Easy Links
 ### ESP12.OLED_V1 - universal ESP8266+0.96"OLED MCU board
